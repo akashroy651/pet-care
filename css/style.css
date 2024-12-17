@@ -47,9 +47,45 @@ table {
 	border-spacing: 0;
 }
 
+.container-fluid{
+	background: #daac00;
+}
+.wrap{
+	margin-left: 140px;
+	margin-right: 140px;
+}
 
+.nav-item a{
+	margin-left: 40px;
+	font-size: 30px;
+	color: #ffffff;
+}
 
-#new{
-    background: #ff0000;
-    height: 500px;
+.active{
+	color: #ffffff;
+}
+.left-title h1{
+	font-size: 72px;
+	color: #ffffff;
+}
+
+.title-section{
+	background: #fcc302;
+}
+
+.left-title h2{
+	font-size: 28px;
+}
+.right-button{
+	margin-left: 20px;
+	border: 2px solid #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 5px;
+	background: none;
+
+}
+
+.left-title{
+	margin-top: 190px;
 }
