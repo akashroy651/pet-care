@@ -47,6 +47,9 @@ table {
 	border-spacing: 0;
 }
 
+section{
+	margin-bottom: 100px;
+}
 .container-fluid{
 	background: #daac00;
 }
@@ -94,4 +97,24 @@ table {
 .title-img{
 	padding-top: 80px;
 	padding-left: 80px;
+}
+/* 2nd part*/
+
+.animal h1{
+	margin-top: 100px;
+	font-size: 62px;
+	margin-bottom: 20px;
+
+}
+.animal h2{
+	font-size: 20px;
+	margin-bottom: 25px;
+}
+.animal .animal-button{
+	padding: 15px 15px 15px 15px;
+	background: #fcc302;
+	color: #ffffff;
+	border: none;
+	border-radius: 10px;
+	font-size: 20px;
 }
