@@ -67,19 +67,23 @@ section{
 .active{
 	color: #ffffff;
 }
+
+#new {
+	background: #fcc302;
+}
+
 .left-title h1{
 	font-size: 72px;
 	color: #ffffff;
 	padding-bottom: 45px;
 }
 
-.title-section{
-	background: #fcc302;
-}
+
 
 .left-title h2{
 	font-size: 28px;
 	padding-bottom: 45px;
+	color: #ffffff;
 }
 .right-button{
 	margin-left: 20px;
@@ -98,7 +102,7 @@ section{
 	padding-top: 80px;
 	padding-left: 80px;
 }
-/* 2nd part*/
+/* 2nd part start*/
 
 .animal h1{
 	margin-top: 100px;
@@ -109,6 +113,7 @@ section{
 .animal h2{
 	font-size: 20px;
 	margin-bottom: 25px;
+	color: #313243;
 }
 .animal .animal-button{
 	padding: 15px 15px 15px 15px;
@@ -118,3 +123,28 @@ section{
 	border-radius: 10px;
 	font-size: 20px;
 }
+/* 3rd part start */
+.here-title h1{
+	padding-top: 100px;
+	font-size: 60px;
+	color: #ffffff;
+	margin-bottom: 35px;
+}
+.here-title h2{
+	font-size: 30px;
+	color: #ffffff;
+	margin-bottom: 100px;
+}
+.here-img h1{
+	font-size: 40px;
+	color: #ffffff;
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+.here-img h2{
+	font-size: 24px;
+	color: #ffffff;
+	margin-bottom: 95px;
+}
+
+/* 4th part start */
