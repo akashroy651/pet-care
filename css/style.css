@@ -67,6 +67,7 @@ table {
 .left-title h1{
 	font-size: 72px;
 	color: #ffffff;
+	padding-bottom: 45px;
 }
 
 .title-section{
@@ -75,6 +76,7 @@ table {
 
 .left-title h2{
 	font-size: 28px;
+	padding-bottom: 45px;
 }
 .right-button{
 	margin-left: 20px;
