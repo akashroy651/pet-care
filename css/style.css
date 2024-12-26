@@ -148,3 +148,24 @@ section{
 }
 
 /* 4th part start */
+.animal-title{
+	margin-top: 50px;
+	font-size: 63px;
+	font-weight: bold;
+	padding-bottom: 40px;
+}
+.animal-sub-title{
+	font-size: 27px;
+	text-align: justify;
+}
+.animal-sub-title button{
+	float: right;
+	margin-top: 40px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background: #fcc302;
+	color: #ffffff;
+	border-radius: 15px;
+	border: none;
+	
+}
