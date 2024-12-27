@@ -173,5 +173,10 @@ section{
 /* 5th part start */
 
 .main-title h1{
-	font-size: 40px;
+	font-size: 45px;
+	font-weight: bold;
+}
+.main-title h2{
+	margin-top: 20px;
+	font-size: 30px;
 }
