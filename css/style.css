@@ -165,7 +165,13 @@ section{
 	padding-bottom: 15px;
 	background: #fcc302;
 	color: #ffffff;
-	border-radius: 15px;
+	border-radius: 11px;
 	border: none;
 	
+}
+
+/* 5th part start */
+
+.main-title h1{
+	font-size: 40px;
 }
