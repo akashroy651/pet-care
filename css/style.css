@@ -200,3 +200,40 @@ section{
 	border-radius: 40px;
 	margin-bottom: 95px;
 }
+
+/* 6th part start */
+
+.vetcare h1{
+	font-size:70px;
+	font-weight: bold;
+}
+.vetcare h2{
+	font-size:30px;
+	margin-bottom: 90px;
+	
+}
+
+.vetcare-team h1{
+	font-size: 40px;
+	font-weight: bold;
+	margin-top: 25px;
+}
+.vetcare-team h2{
+	font-size: 24px;
+	margin-top: 15px;
+	margin-bottom: 17px;
+}
+.vetcare-team ul li{
+	display: inline-block;
+	margin: 7px;
+
+}
+.vetcare-team ul li a{
+	padding-top: 8px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-bottom: 8px;
+	background: #daac00;
+	border-radius: 100%;
+	color: #ffffff;
+}
