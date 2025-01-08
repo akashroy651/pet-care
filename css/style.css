@@ -237,3 +237,49 @@ section{
 	border-radius: 100%;
 	color: #ffffff;
 }
+
+/* 7th part start */
+
+.happy{
+	position: relative;
+	
+}
+
+.client{
+	position: absolute;
+	top: 170px;
+}
+.client-text h1{
+	margin-top: 30px;
+	font-size: 35px;
+}
+.client-text h2{
+	margin-top: 20px;
+	font-size: 50px;
+}
+
+/* 8th part start */
+
+.resent h1{
+	font-size: 60px;
+	font-weight: bold;
+	color: #313243;
+}
+.resent h2{
+	margin-top: 20px;
+	font-size: 30px;
+}
+.post{
+	background: #00bec9;
+	
+}
+.post-text h1{
+	margin-top: 20px;
+	font-size: 36px;
+
+}
+.post-text h2{
+	margin-top: 10px;
+	text-transform: uppercase;
+	color: #00bec9;
+}
